@@ -1,0 +1,24 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups and temporary files
+backups/
+*_backup_*
+*.bak
+*.tmp
+*.log
+~$*
+
+# Generated test data and demo workbooks
+tests/test_data/
+*_DEMO.xlsx
+*_TEST.xlsx
+
+# Excel inventory workbooks: NOT shared until permission is confirmed
+*.xlsx
+*.xls
+
+# Coursework / assignment documents (not part of the code)
+*.pdf
